@@ -94,8 +94,8 @@ spectacle 壮观的场景
 age 老化，变老 
 snapshot 快照 
 paramount 至关重要的 
-master bash 掌握
-bash sacrilege 牺牲品 
+master bash 掌握bash
+sacrilege 牺牲品 
 equivalent 相当于
 
 
