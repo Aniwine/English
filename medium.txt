@@ -50,6 +50,9 @@ copyright 版权
 
 
 #How To Fake(假装)Being a Good Programmer  原文：https://towardsdatascience.com/how-to-fake-being-a-good-programmer-cbef2c39764c
+
+1th
+
 wizard 巫师 
 ragged 衣衫褴褛的
 illusionist 魔术师
@@ -98,5 +101,43 @@ master bash 掌握bash
 sacrilege 牺牲品 
 equivalent 相当于
 
-
+2th
+cursor 光标
+exude 散发
+incompetence 无能
+tail 尾巴
+ergonomic 人体工程学
+laptop 笔记本电脑
+glue 胶,粘
+sandpaper 砂纸
+clatter 哒哒声
+emulate 模拟
+loaf 面包
+orchestrate 编排
+array 数组,矩阵
+convey 传达
+straddle 跨坐
+coveted 梦寐以求的
+dangle 悬,吊
+partical 实际的
+outght 应该
+demonstrate 证明
+monitor 显示器
+woo 吸引
+spectator 观众
+swift 敏捷的
+hop 跳
+onlooker 旁观者
+register 登记
+measure 衡量
+elicit 引起
+nauseating 令人作呕的
+literally 字面意思
+salivate 流口水
+deem 认为
+tactic 策略,战术
+ingenuine 天真的
+insincere 不真诚的
+the flamboyance too frivolous 华而不实的
+toil 劳累
 
